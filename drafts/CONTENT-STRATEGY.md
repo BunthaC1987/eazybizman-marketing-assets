@@ -11,6 +11,14 @@ Never invent a customer quote, a stat, or a claim beyond the four documented
 pain points and the Estimate -> Quote -> Deliver -> Get Paid pipeline. That
 constraint applies to every week's copy, regardless of theme or angle.
 
+## Platforms: every post goes on all 3 connected channels
+
+Every post in every batch ships to all three connected channels - LinkedIn,
+Facebook, and Instagram. Don't omit a channel for an individual slot; the
+per-post `Platform(s):` field in each batch's captions file should always
+list all three, and the scheduling step should reject (or fix) any batch
+where a post is missing one.
+
 ## Cadence: 9 posts, Monday through Sunday
 
 Batches run on a **9-post cadence**, not 10. When this routine runs on a
