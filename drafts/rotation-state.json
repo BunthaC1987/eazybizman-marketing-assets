@@ -1,9 +1,9 @@
 {
   "cadence": "9 posts per batch, scheduled Monday-Sunday (Sunday carries a double post; the prior batch's leftover post already covers the upcoming Sunday in Buffer)",
   "cycle": ["lost_margin", "slow_quoting", "field_data", "cash_flow"],
-  "last_theme": "slow_quoting",
-  "last_batch_range": "30-38",
+  "last_theme": "field_data",
+  "last_batch_range": "39-47",
   "last_run_date": "2026-09-11",
-  "next_theme": "field_data",
-  "next_batch_range": "39-47"
+  "next_theme": "cash_flow",
+  "next_batch_range": "48-56"
 }
