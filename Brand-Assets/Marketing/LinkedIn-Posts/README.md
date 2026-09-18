@@ -19,3 +19,5 @@ matching week folder here.
   `published/2026-09-06-next-9-posts.md`.
 - `Week-2-Slow-Quoting/` - images `30_` - `38_`, captions from
   `drafts/2026-09-11-next-9-posts.md`.
+- `Week-3-Field-Data/` - images `39_` - `47_`, captions from
+  `drafts/2026-09-18-next-9-posts.md`.
