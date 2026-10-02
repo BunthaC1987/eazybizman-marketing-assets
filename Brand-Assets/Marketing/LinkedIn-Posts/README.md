@@ -21,3 +21,5 @@ matching week folder here.
   `drafts/2026-09-11-next-9-posts.md`.
 - `Week-3-Field-Data/` - images `39_` - `47_`, captions from
   `drafts/2026-09-18-next-9-posts.md`.
+- `Week-4-Cash-Flow/` - images `48_` - `56_`, captions from
+  `drafts/2026-09-25-next-9-posts.md`.
