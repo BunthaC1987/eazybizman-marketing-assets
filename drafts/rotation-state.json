@@ -1,10 +1,15 @@
 {
   "cadence": "8 static posts + 1 Reel per week (9 pieces; Buffer free plan allows 10 scheduled per channel). Mon 1, Tue 2, Wed 3 + Reel 5pm, Thu 4 (9am) and 5 (5pm), Fri 6, Sat 7, Sun 8 (CTA)",
-  "cycle": ["lost_margin", "slow_quoting", "field_data", "cash_flow"],
-  "last_theme": "cash_flow",
-  "last_batch_range": "48-56",
-  "last_run_date": "2026-10-02",
-  "next_theme": "lost_margin",
-  "next_batch_range": "57-64",
+  "cycle": [
+    "lost_margin",
+    "slow_quoting",
+    "field_data",
+    "cash_flow"
+  ],
+  "last_theme": "lost_margin",
+  "last_batch_range": "57-64",
+  "last_run_date": "2026-10-10",
+  "next_theme": "slow_quoting",
+  "next_batch_range": "65-72",
   "note": "2026-10-10: drafts of 2026-10-02 / 2026-10-09 ('next 10 posts', images 11-20) were off-template and never scheduled; superseded. Images 11-20 remain unused in the repo."
 }
