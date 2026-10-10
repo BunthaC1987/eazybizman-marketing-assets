@@ -6,10 +6,10 @@
     "field_data",
     "cash_flow"
   ],
-  "last_theme": "lost_margin",
-  "last_batch_range": "57-64",
+  "last_theme": "cash_flow",
+  "last_batch_range": "48-56",
   "last_run_date": "2026-10-10",
-  "next_theme": "slow_quoting",
-  "next_batch_range": "65-72",
-  "note": "2026-10-10: drafts of 2026-10-02 / 2026-10-09 ('next 10 posts', images 11-20) were off-template and never scheduled; superseded. Images 11-20 remain unused in the repo."
+  "next_theme": "lost_margin",
+  "next_batch_range": "57-64",
+  "note": "2026-10-10: the merged 9 Oct 'next 10' batch (images 11-20, 8 posts scheduled Sun 11 - Sun 18 Oct) is this week's content. Lost-margin batch 57-64 (drafts/2026-10-10-next-8-posts.md) is built and scheduled for the week of 19 Oct. Rotation advances to slow_quoting 65-72 after that batch is scheduled."
 }
