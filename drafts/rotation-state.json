@@ -6,10 +6,10 @@
     "field_data",
     "cash_flow"
   ],
-  "last_theme": "lost_margin",
-  "last_batch_range": "57-64",
-  "last_run_date": "2026-10-17",
-  "next_theme": "slow_quoting",
-  "next_batch_range": "65-72",
-  "note": "2026-10-17: lost-margin batch 57-64 plus Reel-Margin-2026-10-21.mp4 scheduled in Buffer for the week of 19-25 Oct (Mon 9am, Tue 9am, Wed 9am + Reel 5pm, Thu 9am + 5pm, Fri 9am, Sat 9am, Sun 9am; all three channels). Next: slow_quoting batch 65-72, to be drafted, rendered (tools/render_posts.py) and scheduled for the week of 26 Oct in the Saturday 24 Oct evening session. Buffer is at 10 of 10 per channel until Sun 18 Oct posts publish and again after this week's batch."
+  "last_theme": "slow_quoting",
+  "last_batch_range": "65-72",
+  "last_run_date": "2026-10-23",
+  "next_theme": "field_data",
+  "next_batch_range": "73-80",
+  "note": "2026-10-23: slow_quoting batch 65-72 drafted (PR awaiting human merge) for the week of 26 Oct - 1 Nov. Next: field_data batch 73-80 for the week of 2 Nov."
 }
