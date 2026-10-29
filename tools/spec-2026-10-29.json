@@ -1,0 +1,60 @@
+[
+{
+"file": "73_fielddata_problem_blunt.png",
+"kind": "standard",
+"eyebrow": "Sound familiar?",
+"headline": "The job is done. The numbers are still on the ute.",
+"accent": "orange"
+},
+{
+"file": "74_fielddata_problem_scenario.png",
+"kind": "standard",
+"eyebrow": "Monday morning",
+"headline": "Friday's hours are on a scrap of paper. The photos are in someone's phone. The invoice is waiting.",
+"accent": "orange"
+},
+{
+"file": "75_fielddata_problem_persona.png",
+"kind": "standard",
+"eyebrow": "The office admin's view",
+"headline": "You can't bill what nobody told you about. So you ring the crew and wait.",
+"accent": "orange"
+},
+{
+"file": "76_fielddata_problem_costofinaction.png",
+"kind": "standard",
+"eyebrow": "The cost of lost field data",
+"headline": "Every missing hour or material is work you did and can't prove.",
+"accent": "orange"
+},
+{
+"file": "77_fielddata_solution_contrast.png",
+"kind": "standard",
+"eyebrow": "With Eazybizman",
+"headline": "Hours, materials and photos go onto the job from the site. Nothing rides home on a scrap of paper.",
+"accent": "white"
+},
+{
+"file": "78_fielddata_solution_outcome.png",
+"kind": "standard",
+"eyebrow": "What changes",
+"headline": "The office sees the job as it happens. No phone calls to piece it together.",
+"accent": "white"
+},
+{
+"file": "79_fielddata_solution_beforeafter.png",
+"kind": "beforeafter",
+"eyebrow": "Before and after",
+"headline": "Same day on site. Different trip back to the office.",
+"before": "Details rebuilt from memory, texts and scraps of paper.",
+"after": "Hours, materials and photos already on the job."
+},
+{
+"file": "80_fielddata_pipeline_cta.png",
+"kind": "cta",
+"eyebrow": "Get started",
+"headline": "Deliver the job. Keep every detail.",
+"button": "Book a demo",
+"strip_from": "47_fielddata_pipeline_cta.png"
+}
+]
