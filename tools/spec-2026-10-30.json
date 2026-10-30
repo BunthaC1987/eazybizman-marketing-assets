@@ -1,0 +1,10 @@
+[
+{"file":"73_fielddata_problem_blunt.png","kind":"standard","eyebrow":"Sound familiar?","headline":"The job happened on site. The record says otherwise.","accent":"orange"},
+{"file":"74_fielddata_problem_scenario.png","kind":"standard","eyebrow":"Invoice day","headline":"You sit down to invoice and can't tell how many hours went into the job.","accent":"orange"},
+{"file":"75_fielddata_problem_persona.png","kind":"standard","eyebrow":"The owner's view","headline":"You're paying for the hours. You're guessing what they went into.","accent":"orange"},
+{"file":"76_fielddata_problem_costofinaction.png","kind":"standard","eyebrow":"The cost of lost field data","headline":"What the crew saw on site is gone before the office can use it.","accent":"orange"},
+{"file":"77_fielddata_solution_contrast.png","kind":"standard","eyebrow":"With Eazybizman","headline":"The site record is built on site, not rebuilt afterwards.","accent":"white"},
+{"file":"78_fielddata_solution_outcome.png","kind":"standard","eyebrow":"What changes","headline":"You open the job and it's all there. No phone calls to the crew.","accent":"white"},
+{"file":"79_fielddata_solution_beforeafter.png","kind":"beforeafter","eyebrow":"Before and after","headline":"Same job. Different record.","before":"Hours and materials rebuilt from memory.","after":"Hours, materials and photos logged on the job."},
+{"file":"80_fielddata_pipeline_cta.png","kind":"cta","eyebrow":"Get started","headline":"Deliver the job. Keep the record.","button":"Book a demo","strip_from":"47_fielddata_pipeline_cta.png"}
+]
