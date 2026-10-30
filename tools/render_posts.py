@@ -5,7 +5,7 @@ Usage:  python tools/render_posts.py spec.json
 spec.json = list of posts:
   {"file":"57_margin_problem_blunt.png","kind":"standard","eyebrow":"Sound familiar?","headline":"...","accent":"orange"|"white"}
   {"file":"...","kind":"beforeafter","eyebrow":"Before and after","headline":"...","before":"...","after":"..."}
-  {"file":"...","kind":"cta","eyebrow":"Get started","headline":"...","button":"Run the free Margin Leak Check"}
+  {"file":"...","kind":"cta","eyebrow":"Get started","headline":"...","button":"Run the free Margin Leak Check"}  (optional "strip_from":"47_fielddata_pipeline_cta.png" to highlight another stage)
 Needs Pillow. Reuses the footer and the pipeline icon strip from existing images 21 and 29 in this repo.
 """
 import json, sys, os
@@ -20,6 +20,10 @@ def font(sz):
 ref = Image.open(os.path.join(ROOT,"21_margin_problem_blunt.png")).convert("RGB")
 footer = ref.crop((0,1050,1200,1200))
 strip = Image.open(os.path.join(ROOT,"29_margin_pipeline_cta.png")).convert("RGB").crop((250,212,820,368))
+def strip_for(p):
+    # optional "strip_from": an existing image whose pipeline strip highlights the right stage
+    if p.get("strip_from"): return Image.open(os.path.join(ROOT,p["strip_from"])).convert("RGB").crop((250,212,820,368))
+    return strip
 def spaced(d,xy,t,f,fill,sp=3):
     x,y=xy
     for ch in t: d.text((x,y),ch,font=f,fill=fill); x+=d.textlength(ch,font=f)+sp
@@ -50,7 +54,7 @@ def beforeafter(p):
     for l in wrap(d,p["after"],f2,500): d.text((620,y),l,font=f2,fill=OR); y+=50
     return im
 def cta(p):
-    im,d=base(p["eyebrow"],OR); im.paste(strip,(250,212)); f=font(66); y=470
+    im,d=base(p["eyebrow"],OR); im.paste(strip_for(p),(250,212)); f=font(66); y=470
     for l in wrap(d,p["headline"],f,960): d.text((80,y),l,font=f,fill=WH); y+=84
     fb=font(34); w=int(d.textlength(p["button"],font=fb))+80; y+=24
     d.rounded_rectangle([80,y,80+w,y+76],radius=10,fill=OR); d.text((120,y+19),p["button"],font=fb,fill=WH)

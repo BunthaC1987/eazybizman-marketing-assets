@@ -6,10 +6,10 @@
     "field_data",
     "cash_flow"
   ],
-  "last_theme": "slow_quoting",
-  "last_batch_range": "65-72",
-  "last_run_date": "2026-10-24",
-  "next_theme": "field_data",
-  "next_batch_range": "73-80",
-  "note": "2026-10-24: slow-quoting batch 65-72 drafted and approved by the operator for the week of 26 Oct-1 Nov, with reels/Reel-Quoting-2026-10-28.mp4 (Wed 28 Oct 5pm). Scheduling in Buffer pending reconnection. Next: field_data 73-80 for the week of 2 Nov."
+  "last_theme": "field_data",
+  "last_batch_range": "73-80",
+  "last_run_date": "2026-10-30",
+  "next_theme": "cash_flow",
+  "next_batch_range": "81-88",
+  "note": "2026-10-30: field-data batch 73-80 drafted for the week of 2 Nov-8 Nov, awaiting operator approval (PR). Reel for Wed 4 Nov 5pm to be made by operator. Next: cash_flow 81-88 for the week of 9 Nov."
 }
