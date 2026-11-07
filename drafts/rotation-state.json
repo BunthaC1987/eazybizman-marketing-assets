@@ -6,10 +6,10 @@
     "field_data",
     "cash_flow"
   ],
-  "last_theme": "field_data",
-  "last_batch_range": "73-80",
-  "last_run_date": "2026-11-01",
-  "next_theme": "cash_flow",
-  "next_batch_range": "81-88",
-  "note": "2026-11-01: field-data batch 73-80 drafted for the week of 2 Nov-8 Nov, with reels/Reel-FieldData-2026-11-04.mp4 (Wed 4 Nov 5pm). Drafted late: the Saturday session was missed. Scheduling in Buffer awaits operator approval. Next: cash_flow 81-88 for the week of 9 Nov."
+  "last_theme": "cash_flow",
+  "last_batch_range": "81-88",
+  "last_run_date": "2026-11-07",
+  "next_theme": "lost_margin",
+  "next_batch_range": "89-96",
+  "note": "2026-11-07: cash-flow batch 81-88 drafted for the week of 9 Nov-15 Nov (PR awaiting human merge; Reel made by operator). Next: lost_margin 89-96 for the week of 16 Nov."
 }
