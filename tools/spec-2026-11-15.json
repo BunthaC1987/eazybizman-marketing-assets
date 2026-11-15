@@ -1,0 +1,10 @@
+[
+ {"file":"97_quoting_problem_blunt.png","kind":"standard","eyebrow":"Sound familiar?","headline":"Every quote starts from last month's spreadsheet. Change the numbers, hope nothing was missed.","accent":"orange"},
+ {"file":"98_quoting_problem_scenario.png","kind":"standard","eyebrow":"On site","headline":"The phone rings, hands full. The quote waits until tonight.","accent":"orange"},
+ {"file":"99_quoting_problem_persona.png","kind":"standard","eyebrow":"The office's view","headline":"Every quote rebuilt from a blank sheet. Nothing priced before gets reused.","accent":"orange"},
+ {"file":"100_quoting_problem_costofinaction.png","kind":"standard","eyebrow":"The cost of starting over","headline":"Every hour re-pricing a job you've priced before is an hour not winning the next one.","accent":"orange"},
+ {"file":"101_quoting_solution_contrast.png","kind":"standard","eyebrow":"With Eazybizman","headline":"Build the quote from your library of pre-priced assemblies.","accent":"white"},
+ {"file":"102_quoting_solution_outcome.png","kind":"standard","eyebrow":"What changes","headline":"Your price and margin build up as you add each assembly.","accent":"white"},
+ {"file":"103_quoting_solution_beforeafter.png","kind":"beforeafter","eyebrow":"Before and after","headline":"Same quote. A different starting point.","before":"Every quote starts from a blank sheet and last month's numbers.","after":"Pick from your pre-priced assemblies and the price builds up as you add them."},
+ {"file":"104_quoting_pipeline_cta.png","kind":"cta","eyebrow":"Get started","headline":"Try it on your next real quote.","button":"Start free trial"}
+]
