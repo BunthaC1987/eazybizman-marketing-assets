@@ -6,10 +6,10 @@
     "field_data",
     "cash_flow"
   ],
-  "last_theme": "slow_quoting",
-  "last_batch_range": "97-104",
-  "last_run_date": "2026-11-15",
-  "next_theme": "field_data",
-  "next_batch_range": "105-112",
-  "note": "2026-11-15: slow-quoting batch 97-104 drafted for the week of 23 Nov with the Start free trial call to action (operator request), not yet scheduled in Buffer (queue full until the week of 16 Nov publishes). Next: field_data 105-112 for the week of 30 Nov."
+  "last_theme": "field_data",
+  "last_batch_range": "105-112",
+  "last_run_date": "2026-11-25",
+  "next_theme": "cash_flow",
+  "next_batch_range": "113-120",
+  "note": "2026-11-25: field-data batch 105-112 drafted for the week of 30 Nov (CTA Book a demo per strategy). Next: cash_flow 113-120 for the week of 7 Dec."
 }
